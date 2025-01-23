@@ -1,6 +1,6 @@
 # HideFromMyBoss
 
-[![Watch the demo](https://img.shields.io/badge/Watch-Demo-red)]([your_video_link_here](https://youtu.be/qQfwt4BbFSU))
+[![Watch the demo](https://img.shields.io/badge/Watch-Demo-red)](https://youtu.be/qQfwt4BbFSU)
 
 Born from the ancient art of looking busy when your boss has turned "checking on you" into an Olympic sport. 🏃‍♂️
 
